@@ -1,0 +1,32 @@
+problem regresyjny - przewidywanie ceny laptopa
+
+wartości Szapleja
+
+dane kategoryczne - zamiana sensowna na liczby (z jednej kolumny macierz jedynek - czy należy do della? 0 czy do apple? 1)
+
+top 6/7 producentów a reszta others
+
+price_euros - najlepiej cene zlogarytmować i przewidywać zlogarytmowaną
+
+nie skupiamy się jak dobrze jest wytrenowany model
+skupiamy się na wartości szapleja (biblioteka szap - https://shap.readthedocs.io/en/latest/)
+
+szap values - jaki jest wkład pojedynczego gracza w finalny wynik rozgrywki
+
+_------------------------------------------------------------------------------------------------_
+
+kolumny:
+company
+product ?
+typeName
+inches
+ram
+os
+cpu_company
+cpu_freq
+cpu_model
+gpu_company
+gpu_model
+touchscreen
+
+price_euros => wartości sprawdzające

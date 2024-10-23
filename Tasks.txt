@@ -1,0 +1,13 @@
+_------------------------------------------------------------------------------------------------_
+both
+	>> 1. sprawdzić pliki z poprzedniego semestru
+
+_------------------------------------------------------------------------------------------------_
+Piotrek
+	>> 1. przygotować dane dla modelu
+
+_------------------------------------------------------------------------------------------------_
+Bartek
+ 	>> 1. Sprawdzić co jest potrzebne dla modelu predykcyjnego
+	>> 2. Sprawdzić co jest potrzebne dla modelu klasyfikacji (wartości szapleja)
+
