@@ -1,3 +1,8 @@
+_------------------------------------------------------------------------------------------------_
+dataset: 
+https://www.kaggle.com/datasets/owm4096/laptop-prices/data
+
+_------------------------------------------------------------------------------------------------_
 problem regresyjny - przewidywanie ceny laptopa
 
 wartości Szapleja
