@@ -21,17 +21,17 @@ szap values - jaki jest wkład pojedynczego gracza w finalny wynik rozgrywki
 _------------------------------------------------------------------------------------------------_
 
 kolumny:
-company
-product ?
-typeName
-inches
-ram
-os
-cpu_company
-cpu_freq
-cpu_model
-gpu_company
-gpu_model
-touchscreen
+Company
+Product ?
+TypeName
+Inches
+Ram
+OS
+Touchscreen
+CPU_company
+CPU_freq
+CPU_model
+GPU_company
+GPU_model
 
 price_euros => wartości sprawdzające
